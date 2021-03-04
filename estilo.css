@@ -41,6 +41,10 @@ label{
     font-size: 17px;
     color: black;
 }
+input{
+    color: black;
+    font-weight: 700;
+}
 #btn{
     background-color: black;
     color: white;
