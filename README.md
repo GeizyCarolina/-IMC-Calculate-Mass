@@ -4,6 +4,8 @@
 
 # Sobre o projeto
 
+https://imc-calculate-mass.netlify.app/
+
 IMC/Calculate Mass é uma aplicação Front-End simples, para calcular seu índice de massa corporal conforme o seu peso e sua altura.
 
 O índice é calculado da seguinte maneira: divide-se o peso do usuário pela sua altura elevada ao quadrado dessa forma é calculado sua massa corpórea e também o status atual do seu peso.
