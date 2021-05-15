@@ -55,7 +55,7 @@ function Calcular(){
     else if(calculo >= 25 && calculo <= 29.9 ){
         resp.innerHTML += ('Você está acima do peso');
     }
-    else if(calculo >= 30 && calculo <= 34.9 ){
+    else if(calculo >= 30 && calculo <= 39.9 ){
         resp.innerHTML += ('Você está com Obesidade Grau I');
     }
     else if(calculo > 40 && calculo < 50){
